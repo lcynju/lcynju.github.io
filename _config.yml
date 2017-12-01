@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuanyi Li／李传艺"
+title                    : "Chuanyi Li"
 title_separator          : "-"
 name                     : &name "Chuanyi Li"
 description              : &description "Homepage for Chuanyi Li"
@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuanyi Li/李传艺"
-  avatar           : "profile.png"
+  name             : "Chuanyi Li"
+  avatar           : "lichuanyi.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Room 917, Fei Yimin Building, No.22 Hankou Road, Gulou District, Nanjing, Jiangsu Province, 210093"
   employer         :
