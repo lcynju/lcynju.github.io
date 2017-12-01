@@ -81,7 +81,9 @@ author:
   name             : "Chuanyi Li"
   avatar           : "lichuanyi.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Room 917, Fei Yimin Building, No.22 Hankou Road, Gulou District, Nanjing, Jiangsu Province, 210093"
+  location1        : "Room 917, Fei Yimin Building"
+  location2        : "No.22 Hankou Road, Gulou Dist."
+  location3        : "Nanjing, Jiangsu, CN, 210093"
   employer         :
   googlescholar    : 
   email            : "lcy@nju.edu.cn"
