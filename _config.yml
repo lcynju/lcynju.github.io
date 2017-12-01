@@ -84,7 +84,7 @@ author:
   location         : "Nanjing, Jiangsu, China"
   employer         :
   googlescholar    : ""
-  email            : "lcy@nju.edu.cn"
+  email            : lcy@nju.edu.cn
   uri              :
   bitbucket        :
   codepen          :
@@ -176,10 +176,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -228,8 +228,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
