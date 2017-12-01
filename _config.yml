@@ -81,10 +81,10 @@ author:
   name             : "Chuanyi Li/李传艺"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Nanjing, Jiangsu, China"
+  location         : "Room 917, Fei Yimin Building, No.22 Hankou Road, Gulou District, Nanjing, Jiangsu Province, 210093"
   employer         :
-  googlescholar    : ""
-  email            : lcy@nju.edu.cn
+  googlescholar    : 
+  email            : "lcy@nju.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            : 
   xing             :
